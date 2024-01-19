@@ -1,0 +1,12 @@
+operatorner
+1. Unary(unar) ______ ++, —,+=,-=, /=, *= ogtagorcvum e 1 arjeq
+2.Binary(binar) ______  ogtagorcvum e 2 arjeq( a=b+c)
+3.Ternary ____________ ogtagorcum e 3 arjeq
+
+
+
+
+4. % gorcoxutyun@ bajanum 1 ev cuyc talis mnacord@
+5. \n  ___ nor tox
+6. @ _____ drvum a stringi skzbic vor@ ignor e anum meji nshanner@
+7. // ____ 2 hati depqum pahum e 1 hat@

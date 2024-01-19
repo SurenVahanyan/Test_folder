@@ -1,0 +1,14 @@
+1.int ________amboxj tver 32 bit-4 byte
+2.short ______ amboxj tver 16 bit-2 byte
+3.long _______amboxj tver 64 bit-8 byte
+4.byte _______amboxj tver 8 bit-1 byte(0-255)
+5.sbyte_______amboxj tver 8 bit-1 byte(-128-127)
+6.double _____ storaketov tver 8 byte
+7.float ______  storaketov tver 4 byte
+8.var ________ arjeqic kaxvac tip@ poxvum a
+9.bool __________ true/false
+10.int ____________ amboxj tiv
+11.char __________ sinvol
+12.string _________ tox
+13.jagged array __
+

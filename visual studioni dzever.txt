@@ -1,0 +1,14 @@
+1. #region anun
+     #endregion ___ codi inch vor mas arandznacnel
+
+2. //TODO:  ____ codi mej task sarqelu hamar a ogtagorcvum
+
+3.Ctrl+G _______ serch tox
+
+4.Ctrl+M+O______+ ner@ pakum e
+5.Ctrl+K+D______ cod@ dasavorum e
+6.Ctrl+. _______sxali uxxum
+7.bacel gerbernumner@ ____ Fn+F12
+8.Ctrl+k+c _____ comment
+9. Ctrl+k+c ____ uncoment
+ 

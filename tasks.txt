@@ -1,0 +1,13 @@
+1.Gtnel "hello world today" mejtexi "o"-i index@
+2.Nermucel 2 tiv ev hashvel tveri gumar@
+3.Ogtagorcel pyutagorasi teorem@    
+4.Stringic jnjel mi hat sivol
+5.Tpel 1-n tveri gumar@
+6.Tpel 1-n tveri artadrjal@
+7.Tpel 1-n tveri qarakusineri gumari armat@
+8. Print index of Max letter(indepented of the case)
+9.Tpel 1-n parz teveri gumar@
+10. haytarerel zangvac nermucel arjeqner, heto nermucel hamarner vor texerov poxi
+
+
+    

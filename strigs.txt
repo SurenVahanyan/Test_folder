@@ -1,0 +1,30 @@
+string s1 = "hello world today";
+
+
+1) .Replace('e', 'I'); ______________ change 'e' to 'I'
+2) .Remove(5,1);_____________________ remove number 5-ic 1 simvol
+3) .ToLower(a); _____________________ tarer@ sarqum a poqratar
+
+4) .Split('\u002C')[0];
+
+5) .Clone(5);
+
+6) .Substring(0,2)___________________ nor string (simvolneri skizb/qani hat)
+
+7) .Trim  ___________________________ stringi skzbic u verjic probrler@ hanum a
+
+8) string.IsNullOrWhiteSpace(s2) ____ ete stringi mej miayn probel e talis e "true" else "folse"
+
+9) string.IsNullOrEmpty(s1) _________ ete string@ datark e talis e "True" else "Folse"
+
+10)  string s1 = "hello world kayc";
+
+11)  var a = s1.Split('probel');
+     Console.WriteLine(a.Length); ___ arandznacnum e string@ iraric qo tvac seperatrov
+
+12)int a = 5;
+   int b = 6;
+   int c = a+b;
+   string s = $"{a}+{b}={c}";
+      //result 5+6+11  ______________ string tpelu amenaharmar tarberak@
+

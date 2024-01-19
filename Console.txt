@@ -1,0 +1,16 @@
+1. Console.WriteLine(); ____ tpum a tox u enter a anum
+
+2. Console.Write(); ________ tpum a aranc enter
+
+3. Console.Beep(500, 400);__ beep a anum 1arjeq@ ton@. 2erkarutjun@
+
+4. var input=Console.Read(); __for input, read and enter
+
+5. Console.ReadKey();_______ read without enter
+
+6. Console.OutputEncoding = Encoding.UTF8; ____ console-um ayl tarerov grelu hamar
+
+7. Console.BackgroundColor=ConsoleColor.Black;____ change color console
+   Console.ForegroundColor = ConsoleColor.White;__ change color chars
+8. \n ___ tox@ poxum e
+   \t ___ tab a anum
